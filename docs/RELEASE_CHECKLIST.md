@@ -11,8 +11,8 @@
 - [x] 404 page
 - [x] GitHub → Vercel deployment rules documented
 - [x] Bootstrap markers removed on rebuild branch
-- [ ] Publish downloadable PDF asset
-- [ ] Publish downloadable DOCX asset
+- [x] PDF export via browser print/save
+- [x] Word export generated client-side from the document
 - [x] Publish final OG preview image
 - [ ] Verify Vercel preview on desktop and mobile
 - [ ] Merge to main
