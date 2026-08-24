@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sultan-al-burhan.vercel.app/sitemap.xml
