@@ -1,6 +1,24 @@
 # Sultan al-Burhan
 
-**السلطان والبرهان** — static Arabic manifesto/document site.
+**السلطان والبرهان** — an independent Arabic editorial/document project built as a focused digital reading experience.
+
+[Live website](https://sultan-al-burhan.vercel.app) · [Portfolio case study](https://omar-khair-portfolio.vercel.app/work/sultan-al-burhan)
+
+## Project
+
+The repository combines a concise landing experience with a structured long-form document reader. It is presented as independent/editorial work: concept, information structure, Arabic reading experience, and direct web execution.
+
+## Public proof
+
+- Arabic-first editorial structure;
+- dedicated document reader;
+- static, low-complexity deployment architecture;
+- SEO/supporting web files such as sitemap and robots configuration;
+- branch/PR-driven release workflow.
+
+## Status
+
+**Live independent editorial project.**
 
 ## Architecture
 
@@ -27,3 +45,4 @@
 6. Vercel deploys `main` to production once Git Integration is connected.
 
 See `DEPLOYMENT.md` and `docs/ARCHITECTURE.md` for details.
+
